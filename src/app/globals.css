@@ -25,3 +25,15 @@ body {
 * {
   /* border: 1px solid red; */
 }
+
+.common-btn {
+  font-size: 0.4rem;
+  padding: 0.4rem 1rem;
+  background: #ea3956;
+  color: white;
+  border: none;
+  border-radius: 0.15rem;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 0.2rem;
+}

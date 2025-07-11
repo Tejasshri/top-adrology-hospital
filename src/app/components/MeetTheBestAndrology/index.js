@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./index.module.css";
 
-const AboutAndrology = (props) => {
+const MeetTheBestAndrology = (props) => {
   const { details } = props;
   const { title, des1, des2, title2, btnText, imgUrl, top } = details;
   return (
@@ -22,4 +22,4 @@ const AboutAndrology = (props) => {
   );
 };
 
-export default AboutAndrology;
+export default MeetTheBestAndrology;
